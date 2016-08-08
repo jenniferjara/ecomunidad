@@ -1,0 +1,128 @@
+/* Inserta tu codigo aqui */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+header nav {
+	padding: 50px;
+}
+.naveg {
+	color: grey;
+	font-weight: bold;
+	margin: 0px 20px;
+	padding: 10px;
+	text-decoration: none;
+}
+.logo {
+	width: 80%;
+	padding: 10px;
+}
+.semilla {
+	background-image: url(../img/semilla.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 200px;
+}
+.bg-gray p {
+	padding: 70px;
+	text-align: center;
+}
+/*nosotros*/
+.mision {
+	padding: 70px 10px 70px 0px;
+	text-align: center;
+}
+.vision {
+	padding: 70px 0px 70px 10px;
+	text-align: center;
+}
+.metod-1{
+	background-image: url(../img/metodo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 200px;
+}
+.metod-2{
+	background-image: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	padding: 80px 100px;
+	text-align: center;
+}
+.metod-2 p {
+	padding-bottom: 40px;
+}
+
+.title {	
+	padding: 20px 0px;
+	text-align: center;
+}
+/*servicios*/
+.serv {
+	padding: 10px 20px;
+	text-align: center;
+}
+.servs {
+	padding: 30px 50px;
+	text-align: center;
+}
+/*proyectos*/
+.info {
+	color: white;
+	padding-bottom: 30px;
+}
+.dist {
+	padding: 20px 0px;	
+}
+.img {
+	width: 100%;
+	padding-right: 20px;
+}
+/*equipo*/
+.team {
+	padding: 0px 20px 40px 20px;
+	text-align: center;
+}
+.team-foto {
+	border-radius: 50%;
+	width: 50%;
+}
+.team-redes {
+	margin-top: 10px;
+	padding: 5px;
+	width: 10%;
+}
+/*blog*/
+.blog {
+	background-image: url(../img/fondo2.jpg);
+}
+.blog-text {
+	color: rgb(83, 88, 95);
+	padding: 40px;
+}
+/*seguir*/
+.social {
+	background-color: #4D4D4D;
+}
+.social-box {
+	border: 1px solid white;
+	margin: 30px 0px;
+	padding: 20px 20px 150px;
+}
+.social-box p {
+	display: inline-block;
+	color: white;
+	font-size: 26px;
+}
+.social-img {
+	float: right;
+	width: 25%;
+}
+/*footer*/
+.foot {
+	color: grey;
+	margin: 60px 0px;
+}
